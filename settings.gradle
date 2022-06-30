@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "OasisTask3_Aman_Calculator"
